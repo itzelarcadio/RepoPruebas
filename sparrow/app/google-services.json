@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "139947915746",
+    "firebase_url": "https://sparrow-5b7aa.firebaseio.com",
+    "project_id": "sparrow-5b7aa",
+    "storage_bucket": "sparrow-5b7aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139947915746:android:b706bb3909209a83",
+        "android_client_info": {
+          "package_name": "com.banregio.sparrow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139947915746-mj83ll46h8ebdaomhopmgbidbld2i52u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhxhrT6niXxvKiV4mbygfTfAJFGoIWxMw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
